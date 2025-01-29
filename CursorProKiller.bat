@@ -109,10 +109,10 @@ for %%f in ("%BACKUP_DIR%\*") do (
     echo │       └── %%~nxf
 )
 
-REM 显示公众号信息
+
 echo.
 echo ================================================
-echo   关注公众号【煎饼果子卷AI】一起交流更多Cursor技巧和AI知识
+echo   Powered by  W1ndys | https://github.com/W1ndys
 echo ================================================
 echo.
 echo [信息] 请重启 Cursor 以应用新的配置
